@@ -12,7 +12,7 @@ void main(){
 
   double saldoPosCompra = saldoBancario - precoNotebook;
 
-  print("Saldo apos a compra: $saldoPosCompra");
+  print("Saldo apos a compra: $saldoPosCompra");  
 
 
 }
